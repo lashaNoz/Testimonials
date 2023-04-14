@@ -1,0 +1,9 @@
+Comments from Udemy
+
+1.The tutorials are quite easy to follow up with and very detailed. Each section just gets better, it’s truly the best guide for a growing frontend developer. Kudos to the tutor!
+
+2.This class is really helpful in learning how to effectively structure and organize your HTML and CSS code. It really clicked in my mind, I was more interested in how JS DOM manipulation fit in but everything I learned helped me to be a better designer. The learning curve is a bit steep because the instructors don't explain why they use some of the CSS code, and you need to look it up if you are new to CSS, but if you follow the projects from 1 to 10, then the code will pop up in your mind from muscle memory. Great course, I am glad I took the time to explore it.
+
+3.This course was just very helpful and just what I needed. I was going through a web dev bootcamp, which introduced html, css and javascript, but did not spend much time with it and I was feeling a bit lost and overwhelmed, not grasping everything being thrown at my brain. But following along with this course made me feel a super bunch more comfortable in the act of writing html and css, and a bit more comfortable than I was with javascript.
+I'm more confident in what to use, where and why, and along with other resources, I can see that different coders have different styles, and the style of this course is pretty thorough. I am now also confident in changing and trying out different things and ways to go about reach similar results.
+This course is definitely a huge help in my journey to learn, and be at ease with, front end web dev, and got some great ideas for portfolio projects along the way. Thank you!
